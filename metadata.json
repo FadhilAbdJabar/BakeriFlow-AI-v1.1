@@ -1,0 +1,6 @@
+{
+  "name": "BakeriFlow AI",
+  "description": "Aplikasi pengurusan pesanan berkuasa AI khusus untuk peniaga bakeri dan makanan dari rumah. Tukar teks WhatsApp berterabur menjadi tempahan kemas, semak kitchen checklist, dan jana resit rasmi DuitNow QR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
